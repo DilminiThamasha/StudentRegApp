@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrudeStudentRegistration</string>
+    <string name="display_name">Student Registration</string>
+    <string name="add_btn">ADD</string>
+    <string name="view_btn">VIEW</string>
+    <string name="update_btn">UPDATE</string>
+</resources>
